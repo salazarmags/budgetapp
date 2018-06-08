@@ -1,0 +1,9 @@
+type,categories
+egreso,vivienda
+egreso,alimentación
+egreso,transporte
+egreso,imprevistos
+egreso,otros
+ingreso,trabajo
+ingreso,familia
+ingreso,intereses

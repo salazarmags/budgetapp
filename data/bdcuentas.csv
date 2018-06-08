@@ -1,0 +1,16 @@
+day,month,year,amount,category,type,detail
+28,agosto,2017,2000,alimentación,egreso,pan
+28,agosto,2017,1400,otros,egreso,jabon
+29,agosto,2017,20000,trabajo,ingreso,quincena
+29,agosto,2017,12300,alimentación,egreso,carne
+30,agosto,2017,200,transporte,egreso,buses
+31,agosto,2017,4000,trabajo,ingreso,rep compu
+1,septiembre,2017,2000,imprevistos,egreso,copias
+1,septiembre,2017,3000,vivienda,egreso,gas
+2,septiembre,2017,12230,alimentación,egreso,queso
+3,septiembre,2017,13440,trabajo,ingreso,cestaticket
+3,septiembre,2017,220,transporte,egreso,buses
+20,septiembre,2017,68,vivienda,egreso,prueba
+25,septiembre,2017,40,alimentación,egreso,sin detalleyyuuus
+25,septiembre,2017,699,otros,egreso,test10
+25,septiembre,2017,90000,trabajo,ingreso,quincena
